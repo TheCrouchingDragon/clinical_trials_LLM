@@ -1,5 +1,6 @@
 # clinical_trials_LLM
 Course project for LLM course
+Jieming Chu, Nainika Devireddy, and Amin Diab
 
 The GitHub consists of our work for the Clinical Trial LLM exploration. The MVP.ipynb is our initial attempts and exploration, trying different methods, prompts and querying techniques. The Synthea Exploration.ipynb is our initial attempts at pre-processing the patient file dataset and prompt engineering. The Clinical Trials.ipynb is our set-up to run our final queries on several patients for final evaluation.
 
