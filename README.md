@@ -1,4 +1,4 @@
-# clinical_trials_LLM
+# Using ChatGPT4 to match synthetic patients to clinical trials
 Course project for Johns Hopkins University Graduate Level LLM Theory and Architecture course.
 Team members:  Jieming Chu, Nainika Devireddy, and Amin Diab
 
